@@ -1,5 +1,7 @@
 # Swagger UI
 
+Customized by Hanai. Simplify for load local `./openapi.yaml`.
+
 [![NPM version](https://badge.fury.io/js/swagger-ui.svg)](http://badge.fury.io/js/swagger-ui)
 
 ## New!
